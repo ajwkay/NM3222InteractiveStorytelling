@@ -10,4 +10,4 @@ This assignment was more focused on the concept of emotional agency. In contrast
 Project 3 - Memoirs of a Withered Rose: 
 The main focus of this assignment is to develop a spatial sense of exploration for the player. Having graphics is one aspect of providing a sense of exploration, but the other criteria was to eliminate (as much as possible) the sense of linearity from the story, in that the player is allowed to interact with the story in any sequence they see fit. This project was developed on Bitsy.
 
-Open index.html to access a menu which leads to all three projects.
+Open index.html in a web browser to access a menu which leads to all three projects.
